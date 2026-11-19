@@ -1,48 +1,43 @@
 # Hi, I'm Ankit Kothe 👋
 
-### MCA Student · Aspiring AI Engineer · Software Developer
+### Aspiring AI Engineer | Generative AI | Full-Stack Development
 
-I'm pursuing my **Master of Computer Applications (MCA)** at **Devi Ahilya Vishwavidyalaya (DAVV), Indore**. I enjoy building software and exploring how AI can solve real-world problems.
+MCA graduate from **School of Computer Science, Devi Ahilya Vishwavidyalaya (DAVV), Indore** (2024–2026). I build software projects and explore practical applications of Generative AI.
 
-- 🌱 Learning **Generative AI and AI Engineering** at Tutedude
-- 🔭 Exploring **Machine Learning, NLP, LLMs, and AI agents**
-- 🎯 Working toward a career as an **AI Engineer**
+- 🎯 Career focus: **Entry-Level AI Engineer / GenAI Developer / Junior Full-Stack Developer**
+- 📚 Currently learning: **Generative AI & AI Engineering** (Tutedude); Python module in progress
+- 💻 Hands-on areas: Java, JavaScript, React.js, Node.js, Express.js, SQL, AWS EC2/S3, Docker, Git/GitHub
+- 🧩 Interested in: AI-powered applications, API integration, automation, and cloud-based software
 
-## 🧠 What I'm Learning
+## Technical Skills
 
-- Python, NumPy, Pandas, and data visualization
-- Machine Learning, Deep Learning, and NLP
-- Transformers, LLMs, and prompt engineering
-- RAG, LangChain, LangSmith, and AI agents
-- OpenAI, Hugging Face, and Ollama
-- Streamlit and FastAPI
+- **Programming:** Java, JavaScript (ES6+), C++, SQL
+- **Web:** React.js, Node.js, Express.js, HTML, CSS
+- **Cloud & Tools:** AWS (EC2, S3), Docker, VMware (basic), Git, GitHub, VS Code
+- **AI:** Generative AI workflows and AI-assisted development; Python (currently learning)
 
-## 🛠️ Skills & Technologies
+## Selected Projects
 
-**Languages:** Python · JavaScript · SQL  
-**Frontend:** React · HTML · CSS · Tailwind CSS  
-**Backend:** Node.js · Express.js  
-**Database:** MongoDB  
-**AI/ML:** Machine Learning · NLP · Generative AI *(learning)*  
-**Tools:** Git · GitHub · VS Code
+### Cloud Resource Allocation System
+- Java-based simulation engine for cloud task scheduling.
+- Implemented Genetic Algorithm-based resource distribution and measured a 15% reduction in simulated makespan.
+- Repository: [cloud-allocator](https://github.com/ankitkothe2119/Genetic-Algo)
 
-## 🚀 Projects
+### Sarthi Shiksha Roshan Sewa Samiti
+- Worked on website UI components, including dynamic team carousels.
+- Used Generative AI workflows for content research and development support.
+- Repository: [Sarthi Shiksha](https://github.com/ankitkothe2119/sarthi-shiksha-rosan-seva-samiti)
 
-- **Cash Book & Transaction Management System**
-- **Web Development Projects**
-- **AI-powered Applications** *(learning and building)*
+### Cash Book System
+- Building a cash book and transaction management application.
+- Repository: [cashbook-system](https://github.com/ankitkothe2119/cashbook-system)
 
-## 📊 GitHub Stats
+## Connect
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkothe2119&show_icons=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkothe2119&layout=compact&theme=tokyonight)
-
-## 🤝 Connect
-
+- [LinkedIn](https://www.linkedin.com/in/ankiitkothe/)
 - [GitHub](https://github.com/ankitkothe2119)
-- LinkedIn: **Add your LinkedIn profile URL**
+- Email: ankiitkothe@gmail.com
 
 ---
 
-⭐ Always learning, building, and exploring new technologies.
+*Open to entry-level remote opportunities in AI/GenAI, software development, and technical support.*
